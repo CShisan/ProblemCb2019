@@ -1,5 +1,4 @@
 # ProblemCb2019
-These are the first nine questions,last question is too hard for me.So i can't do it.
 
 这是2019年蓝桥杯的C语言组的题目
 
